@@ -1,0 +1,54 @@
+{
+    "cardapio": {
+        
+        "cafe": {
+            "id": 1,
+            "descrição": "Café",
+            "preco": 3.00 
+        },
+        "chantily" : {
+            "id": 2,
+            "descrição": "Chantily(extra do café)",
+            "preco": 1.50 
+        },
+        "suco" : {
+            "id": 3,
+            "descrição": "Suco natural",
+            "preco": 6.20 
+        },
+        "sanduiche" : {
+            "id": 4,
+            "descrição": "Sanduíche",
+            "preco": 6.50 
+        },
+        "salgado" : {
+            "id": 5,
+            "descrição": "Salgado",
+            "preco": 7.25 
+        },
+        "queijo" : {
+            "id": 6,
+            "descrição": "Queijo(extra do Sanduíche)",
+            "preco": 2.00 
+        },
+        "combo1" : {
+            "id": 7,
+            "descrição": "1 Suco e 1 Sanduíche",
+            "preco": 9.50 
+        },
+        "combo2" : {
+            "id": 8,
+            "descrição": "1 café e 1 Sanduíche",
+            "preco": 2.00 
+        }
+
+    },
+    "pagamento": {
+        "1": "dinheiro",
+        "2": "debito",
+        "3": "credito"        
+    } 
+}
+
+
+
